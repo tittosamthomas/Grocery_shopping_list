@@ -1,0 +1,108 @@
+{
+    "list": [
+        {
+            "sino":2,
+            "name":"Rice",
+            "quantity":10,
+            "unit":"Kilo Gram",
+            "department":"Grocery",
+            "notes":"Nirapara"
+    
+    
+        },
+    {
+        "sino":1,
+        "name":"Sugar",
+        "quantity":3,
+        "unit":"Kilo Gram",
+        "department":"Grocery",
+        "notes":"White Sugar"
+
+
+    },
+
+    
+    {
+        "sino":4,
+        "name":"green gram",
+        "quantity":1,
+        "unit":"Kilo Gram",
+        "department":"Food item",
+        "notes":"Fresh"
+
+
+    },
+    {
+        "sino":5,
+        "name":"Cooking Oil",
+        "quantity":2,
+        "unit":"Litre",
+        "department":"Grocery",
+        "notes":"Sunflower"
+
+
+    },
+    {
+        "sino":3,
+        "name":"Potato",
+        "quantity":3,
+        "unit":"Kilo Gram",
+        "department":"Vegetables",
+        "notes":"Fresh"
+
+
+    },
+    {
+        "sino":6,
+        "name":"Biscuits",
+        "quantity":3,
+        "unit":"Packets",
+        "department":"Snacks",
+        "notes":"buy 4 or 5 packets"
+
+
+    },
+    {
+        "sino":7,
+        "name":"Disinfectant",
+        "quantity":1,
+        "unit":"Litre",
+        "department":"Cleaning & Household",
+        "notes":"buy large bottle"
+
+
+    },
+    {
+        "sino":8,
+        "name":"soap & hand wash",
+        "quantity":1,
+        "unit":"Number",
+        "department":"Hygiene",
+        "notes":"buy the one with good quality"
+
+
+    },
+
+    {
+        "sino":9,
+        "name":"sanitizer",
+        "quantity":3,
+        "unit":"Number",
+        "department":"Health Products",
+        "notes":"Make sure it contains alchohol"
+
+
+    },
+    {
+        "sino":10,
+        "name":"N-95 Mask",
+        "quantity":10,
+        "unit":"Number",
+        "department":"Health Products",
+        "notes":"Reusable mask"
+
+
+    }
+   
+]
+}

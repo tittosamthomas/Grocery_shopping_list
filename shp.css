@@ -1,0 +1,61 @@
+body{
+    background-image: url(images.jpg);
+  background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;    
+    font-size: 38px;
+    
+    color: rgb(241, 187, 8);
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+     
+}
+.demo{
+    background-color: #be4848;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    
+}
+.button{
+    text-align: center;
+}
+#btn{
+    padding-left: 20px;
+    padding-right: 20px; 
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #130101;
+    align-content: center;
+ 
+}
+
+#grocerylist{
+    margin-left: 15%;
+    margin-right: 10%;
+    border: 1px black;
+    
+    
+}
+td {
+    text-align: center;
+    padding: 15px;
+    color: whitesmoke;
+    border: 1px solid rgb(233, 149, 149);
+    border-collapse: collapse;
+    background-color:rgb(17, 17, 170);
+}
+
+th {
+    text-align: center;
+    width: 36.1cm;
+    padding: 18px;
+    font-weight: bold;
+    color: rgb(248, 204, 9);
+    background-color: rgb(1, 1, 22);
+}
